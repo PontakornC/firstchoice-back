@@ -5,7 +5,7 @@ using UserService.Services;
 namespace UserService.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("/[controller]")]
     public class UserController : Controller
     {
         private readonly UserServices _userService;
@@ -24,9 +24,9 @@ namespace UserService.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetUser(Guid id)
+        public IActionResult GetUser(int id)
         {
-            var user = _userService.GetUserById(id);
+            var user = _db.Users.FirstOrDefault(r=>r.Id == id);
             if (user == null) return NotFound();
             return Ok(user);
         }

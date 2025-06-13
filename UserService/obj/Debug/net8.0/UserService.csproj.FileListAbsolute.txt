@@ -137,3 +137,12 @@ C:\FIFA24\firstchoice-back\UserService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysi
 C:\FIFA24\firstchoice-back\UserService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\FIFA24\firstchoice-back\UserService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\FIFA24\firstchoice-back\UserService\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\FIFA24\firstchoice-back\UserService\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\FIFA24\firstchoice-back\UserService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\FIFA24\firstchoice-back\UserService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\FIFA24\firstchoice-back\UserService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FIFA24\firstchoice-back\UserService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\FIFA24\firstchoice-back\UserService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\FIFA24\firstchoice-back\UserService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FIFA24\firstchoice-back\UserService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\FIFA24\firstchoice-back\UserService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

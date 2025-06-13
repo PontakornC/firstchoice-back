@@ -8,7 +8,7 @@ namespace UserService.Services
 
         public IEnumerable<User> GetAllUsers() => _users;
 
-        public User GetUserById(Guid id) => _users.FirstOrDefault(u => u.Id == id);
+        public User GetUserById(int id) => _users.FirstOrDefault(u => u.Id == id);
 
         public void AddUser(User user) => _users.Add(user);
     }
